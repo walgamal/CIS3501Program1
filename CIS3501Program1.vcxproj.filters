@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="80-20AVL.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="80-20BST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="80-20Splay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="AssignmentSheetAVL.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="AssignmentSheetBST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="AssignmentSheetSplay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="AVLOutput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="BSTOutput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Double_TreeAVL.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Double_TreeBST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Double_TreeSplay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="EmptyFile.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="emptytreeAVL.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="emptytreeBST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="emptytreeSplay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="filenotfound.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="in-and-del-AVL.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="in-and-del-BST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="in-and-del-Splay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="invalidDataAVL.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="invalidDataBST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="invalidDataSplay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="itemnotfoundAVL.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="itemnotfoundBST.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="itemnotfoundSplay.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="SplayOutput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Summary.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AvlTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BstTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SplayTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

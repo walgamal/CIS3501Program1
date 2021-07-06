@@ -1,0 +1,601 @@
+Splay ROTATIONS: 
+Splay: Inserted 51
+Splay Tree: 
+
+51
+
+Height: 0
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- 
+Splay: Inserted 43
+Splay Tree: 
+
+          51
+43
+
+Height: 1
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zag Rotation -- 
+Splay: Inserted 84
+Splay Tree: 
+
+84
+                    51
+          43
+
+Height: 2
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zag Rotation -- Zig Rotation -- 
+Splay: Inserted 64
+Splay Tree: 
+
+          84
+64
+                    51
+          43
+
+Height: 2
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zag Rotation -- 
+Splay: Inserted 81
+Splay Tree: 
+
+          84
+81
+          64
+                              51
+                    43
+
+Height: 3
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- Zig Rotation -- 
+Splay: Inserted 34
+Splay Tree: 
+
+                    84
+          81
+                    64
+                                        51
+                              43
+34
+
+Height: 4
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- 
+Splay: Inserted 15
+Splay Tree: 
+
+                              84
+                    81
+                              64
+                                                  51
+                                        43
+          34
+15
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zig Rotation -- Zag Rotation -- Zag Rotation -- 
+Splay: Inserted 72
+Splay Tree: 
+
+                    84
+          81
+72
+                              64
+                                                  51
+                                        43
+                    34
+          15
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- 
+Splay: Inserted 9
+Splay Tree: 
+
+                              84
+                    81
+          72
+                                        64
+                                                            51
+                                                  43
+                              34
+                    15
+9
+
+Height: 6
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zag Rotation -- Zag Rotation -- Zig Rotation -- Zag Rotation -- 
+Splay: Inserted 43
+Splay Tree: 
+
+                              84
+                    81
+          72
+                    64
+                              51
+43(2)
+
+                              34
+                    15
+          9
+
+Height: 3
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- 
+Splay: Inserted 5
+Splay Tree: 
+
+                                        84
+                              81
+                    72
+                              64
+                                        51
+          43(2)
+
+                                        34
+                              15
+                    9
+5
+
+Height: 4
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zag Rotation -- Zig Rotation -- Zag Rotation -- 
+Splay: Inserted 13
+Splay Tree: 
+
+                                        84
+                              81
+                    72
+                              64
+                                        51
+          43(2)
+
+                              34
+                    15
+13
+                    9
+          5
+
+Height: 4
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zag Rotation -- Zig Rotation -- Zag Rotation -- 
+Splay: Inserted 19
+Splay Tree: 
+
+                                        84
+                              81
+                    72
+                              64
+                                        51
+          43(2)
+
+                    34
+19
+                    15
+          13
+                              9
+                    5
+
+Height: 4
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- Zag Rotation -- 
+Splay: Inserted 24
+Splay Tree: 
+
+                                        84
+                              81
+                    72
+                              64
+                                        51
+          43(2)
+
+                    34
+24
+          19
+                              15
+                    13
+                                        9
+                              5
+
+Height: 4
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- Zag Rotation -- 
+Splay: Inserted 28
+Splay Tree: 
+
+                                        84
+                              81
+                    72
+                              64
+                                        51
+          43(2)
+
+                    34
+28
+          24
+                    19
+                                        15
+                              13
+                                                  9
+                                        5
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- 
+Splay: Inserted 24
+Splay Tree: 
+
+                                                  84
+                                        81
+                              72
+                                        64
+                                                  51
+                    43(2)
+
+                              34
+          28
+24(2)
+
+          19
+                              15
+                    13
+                                        9
+                              5
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zag Rotation -- Zig Rotation -- Zig Rotation -- 
+Splay: Inserted 16
+Splay Tree: 
+
+                                                            84
+                                                  81
+                                        72
+                                                  64
+                                                            51
+                              43(2)
+
+                                        34
+                    28
+          24(2)
+
+                    19
+16
+                    15
+          13
+                              9
+                    5
+
+Height: 6
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zag Rotation -- Zag Rotation -- Zag Rotation -- Zag Rotation -- Zag Rotation -- Zag Rotation -- 
+Splay: Inserted 98
+Splay Tree: 
+
+98
+                                                                      84
+                                                            81
+                                                  72
+                                                            64
+                                                                      51
+                                        43(2)
+
+                                                  34
+                              28
+                    24(2)
+
+                              19
+          16
+                              15
+                    13
+                                        9
+                              5
+
+Height: 7
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zig Rotation -- Zig Rotation -- Zag Rotation -- Zag Rotation -- Zag Rotation -- Zag Rotation -- Zig Rotation -- 
+Splay: Inserted 57
+Splay Tree: 
+
+          98
+                                        84
+                              81
+                    72
+                              64
+57
+                                                  51
+                                        43(2)
+
+                                                  34
+                              28
+                    24(2)
+
+                              19
+          16
+                              15
+                    13
+                                        9
+                              5
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- Zag Rotation -- Zag Rotation -- Zag Rotation -- Zig Rotation -- 
+Splay: Inserted 32
+Splay Tree: 
+
+                    98
+                                                  84
+                                        81
+                              72
+                                        64
+          57
+                              51
+                    43(2)
+
+                              34
+32
+                              28
+                    24(2)
+
+                              19
+          16
+                              15
+                    13
+                                        9
+                              5
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- Zig Rotation -- Zag Rotation -- Zag Rotation -- 
+Splay: Inserted 60
+Splay Tree: 
+
+          98
+                                        84
+                              81
+                    72
+                              64
+60
+                    57
+                                        51
+                              43(2)
+
+                                        34
+          32
+                                        28
+                              24(2)
+
+                                        19
+                    16
+                                        15
+                              13
+                                                  9
+                                        5
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- Zag Rotation -- Zig Rotation -- Zig Rotation -- 
+Splay: Inserted 18
+Splay Tree: 
+
+                    98
+                                                  84
+                                        81
+                              72
+                                        64
+          60
+                              57
+                                                  51
+                                        43(2)
+
+                                                  34
+                    32
+                                        28
+                              24(2)
+
+                                        19
+18
+          16
+                              15
+                    13
+                                        9
+                              5
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zig Rotation -- Zig Rotation -- Zag Rotation -- Zig Rotation -- Zag Rotation -- 
+Splay: Inserted 40
+Splay Tree: 
+
+                    98
+                                                  84
+                                        81
+                              72
+                                        64
+          60
+                    57
+                                        51
+                              43(2)
+
+40
+                              34
+                    32
+                                        28
+                              24(2)
+
+                                        19
+          18
+                    16
+                                        15
+                              13
+                                                  9
+                                        5
+
+Height: 5
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zag Rotation -- Zig Rotation -- Zag Rotation -- Zig Rotation -- 
+Splay: Inserted 29
+Splay Tree: 
+
+                              98
+                                                            84
+                                                  81
+                                        72
+                                                  64
+                    60
+                              57
+                                                  51
+                                        43(2)
+
+          40
+                              34
+                    32
+29
+                              28
+                    24(2)
+
+                              19
+          18
+                    16
+                                        15
+                              13
+                                                  9
+                                        5
+
+Height: 6
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zag Rotation -- Zig Rotation -- Zag Rotation -- Zag Rotation -- 
+Splay: Inserted 58
+Splay Tree: 
+
+                    98
+                                                  84
+                                        81
+                              72
+                                        64
+          60
+58
+                              57
+                                                  51
+                                        43(2)
+
+                    40
+                                        34
+                              32
+          29
+                                        28
+                              24(2)
+
+                                        19
+                    18
+                              16
+                                                  15
+                                        13
+                                                            9
+                                                  5
+
+Height: 6
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zag Rotation -- Zig Rotation -- Zag Rotation -- Zag Rotation -- Zig Rotation -- 
+Splay: Inserted 45
+Splay Tree: 
+
+                              98
+                                                            84
+                                                  81
+                                        72
+                                                  64
+                    60
+          58
+                    57
+                              51
+45
+                              43(2)
+
+                    40
+                                        34
+                              32
+          29
+                                        28
+                              24(2)
+
+                                        19
+                    18
+                              16
+                                                  15
+                                        13
+                                                            9
+                                                  5
+
+Height: 6
+
+----------------------------------------------------------------------------------------------------------------------------
+Splay ROTATIONS: Zig Rotation -- Zig Rotation -- Zig Rotation -- Zag Rotation -- 
+Splay: Inserted 46
+Splay Tree: 
+
+                              98
+                                                            84
+                                                  81
+                                        72
+                                                  64
+                    60
+          58
+                    57
+                              51
+46
+          45
+                                        43(2)
+
+                              40
+                                                  34
+                                        32
+                    29
+                                                  28
+                                        24(2)
+
+                                                  19
+                              18
+                                        16
+                                                            15
+                                                  13
+                                                                      9
+                                                            5
+
+Height: 7
+
+----------------------------------------------------------------------------------------------------------------------------
+						TreeBuild
+			BST			AVL			Splay
+Inserts:		128			120			129			
+Searches:		0			0			0			
+Deletes:		0			0			0			
+Totals:			128			120			129			
+----------------------------------------------------------------------------------------------------------------------------

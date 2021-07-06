@@ -1,0 +1,11 @@
+					Total Operations
+Title				BST			AVL			Splay
+EmptyFile			0			0			0
+TreeBuild			128			120			129
+80-20Test			176			148			195
+in-and-del			30			29			28
+Double_Tree			50			40			32
+Itemnotfound			25			25			19
+EmptyTree			6			6			6
+invalidData			0			0			0
+AssignmentSheet			341			311			280

@@ -1,0 +1,2 @@
+"input file does not exist"
+ask for inputfile name until a valid input file is opened
